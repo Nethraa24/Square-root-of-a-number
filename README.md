@@ -24,17 +24,9 @@ def newton_method(number,number_iters=100):
 a=int(input())
 print("Square root of the number:",newton_method(a))
 ```
-/*
-Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
-*/
-```
 
 ## Output:
-![gcd of two number](gcd.png)
-![image](https://user-images.githubusercontent.com/121215786/214829216-5d5bd2f4-e821-48ea-bd40-67b221659293.png)
-
+![image](https://user-images.githubusercontent.com/121215786/214864948-c0d90501-ebee-40a5-8091-664b7d876879.png)
 
 
 ## Result:
